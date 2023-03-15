@@ -1,2 +1,2 @@
 #!/bin/bash
-expoRT PATH=$PATH::/actiion
+expoRT PATH=$PATH::/action
