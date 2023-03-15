@@ -1,0 +1,2 @@
+#!/bin/bash
+expoRT PATH=$PATH::/actiion
